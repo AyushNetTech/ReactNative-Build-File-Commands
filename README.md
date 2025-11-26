@@ -11,7 +11,7 @@ eas build:configure
 eas build --platform android --profile preview
 
 
-#FOR CHANGE THE EXPO EAS ACCOUNT FOR BUILD
+# FOR CHANGE THE EXPO EAS ACCOUNT FOR BUILD
 
 eas logout
 
