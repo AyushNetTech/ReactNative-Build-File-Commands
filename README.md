@@ -23,3 +23,9 @@ npx expo run:android
 npx expo run:android --variant release
 
 FILE LOCATION --> android/app/build/outputs/apk/release/app-release.apk
+
+
+#EXPO Accounts (UserName & Password)
+1. ayushupase369
+2. ayushupase369.1
+3. ayushupasetech
