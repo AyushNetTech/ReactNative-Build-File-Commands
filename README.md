@@ -1,5 +1,21 @@
 # ReactNative-Build-File-Commands
 
+# FOR MAKING DEV CLIENT BUILD
+
+npm install -g eas-cli
+
+eas login
+
+eas build:configure
+
+eas build --platform android --profile development
+
+AFTER BUILD COMPLETE -> 
+
+RUN IN TERMINAL------>  npx expo start --dev-client  <-------
+
+AFTER Dev Client ready OPEN THE APP IN MOBILE
+
 # FOR MAKING .APK FILE
 
 npm install -g eas-cli
